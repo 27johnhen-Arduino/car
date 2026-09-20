@@ -20,12 +20,12 @@ typedef struct struct_message {
 // Create a struct_message called myData
 struct_message myData;
 
-#define ENA 11
-#define IN1 10
-#define IN2 9
-#define IN3 8
-#define IN4 7
-#define ENB 6
+#define ENA 7
+#define IN1 6
+#define IN2 5
+#define IN3 4
+#define IN4 3
+#define ENB 2
 
 unsigned long lastRecv = 0;
 
